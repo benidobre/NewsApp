@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="pref_section_option_labels">
+        <item>@string/pref_section_business_label</item>
+        <item>@string/pref_section_culture_label</item>
+        <item>@string/pref_section_fashion_label</item>
+        <item>@string/pref_section_music_label</item>
+        <item>@string/pref_section_sport_label</item>
+    </array>
+
+    <array name="pref_section_option_values">
+        <item>@string/pref_section_business_value</item>
+        <item>@string/pref_section_culture_value</item>
+        <item>@string/pref_section_fashion_value</item>
+        <item>@string/pref_section_music_value</item>
+        <item>@string/pref_section_sport_value</item>
+    </array>
+</resources>
